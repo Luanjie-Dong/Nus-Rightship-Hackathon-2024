@@ -1,4 +1,4 @@
-# NUS-RightShip Hackathon Project
+# NUS-RightShip Hackathon 2024 (Maritime)
 
 ## Overview
 
